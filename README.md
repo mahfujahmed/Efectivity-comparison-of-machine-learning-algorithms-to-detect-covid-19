@@ -63,27 +63,4 @@ These studies demonstrate that ML can successfully classify COVID-19 cases, part
   - matplotlib
   - seaborn
 
-### Run the Project
 
-```bash
-git clone https://github.com/your-username/covid19-ml-severity.git
-cd covid19-ml-severity
-pip install -r requirements.txt
-
-# Run the training script
-python train_models.py
-📊 Outputs
-Classification reports (accuracy, precision, recall)
-
-Confusion matrices and evaluation plots
-
-Model comparison results across all four algorithms
-
-🏁 Future Work
-Hyperparameter tuning for optimal performance
-
-Integrate more real-time or demographic data
-
-Develop a web interface for public testing
-
-Deployment as a mobile app or API
