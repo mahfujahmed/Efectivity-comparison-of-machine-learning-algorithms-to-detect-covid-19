@@ -4,7 +4,7 @@ This project explores machine learning (ML) techniques for early detection of CO
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Reduce the time required to test for COVID-19.
 - Enable early diagnosis based on symptoms to accelerate patient care.
@@ -13,7 +13,7 @@ This project explores machine learning (ML) techniques for early detection of CO
 
 ---
 
-## 📚 Background & Motivation
+##  Background & Motivation
 
 COVID-19 has caused a massive global health crisis, affecting millions and overwhelming medical infrastructure. Traditional testing methods like RT-PCR, though accurate, are resource-intensive, time-consuming, and not always accessible.
 
@@ -21,13 +21,13 @@ Machine learning, already proven effective in fields like healthcare, finance, a
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
-### 🔍 Data Collection
+###  Data Collection
 - Symptom and severity-related data collected from publicly available sources such as Kaggle, IEEE Xplore, and Google Scholar.
 - Included data based on clinical symptoms, simple lab test results, and COVID-19 outcomes.
 
-### ⚙️ Data Splitting
+### ⚙ Data Splitting
 - **80%** of the dataset used for training
 - **20%** used for testing
 
@@ -42,7 +42,7 @@ Machine learning, already proven effective in fields like healthcare, finance, a
 
 ---
 
-## 🧠 Literature Review Highlights
+##  Literature Review Highlights
 
 - **Zoabi et al.** used LightGBM and SHAP values to interpret symptom-based COVID-19 predictions.
 - **Quer et al.** combined wearable sensor data and self-reported symptoms to improve COVID-19 detection.
@@ -52,7 +52,7 @@ These studies demonstrate that ML can successfully classify COVID-19 cases, part
 
 ---
 
-## 💻 Installation & Usage
+##  Installation & Usage
 
 ### Prerequisites
 - Python 3.8+
