@@ -2,8 +2,7 @@
 
 This project explores machine learning (ML) techniques for early detection of COVID-19 using clinical symptoms and basic laboratory data. With testing delays, limited resources, and high infection risk in traditional testing methods, this research aims to develop a fast, accurate, and remote diagnostic tool powered by ML models. The approach uses symptom-based data to classify COVID-19 cases without requiring direct hospital visits, thus reducing exposure risks and supporting rapid diagnosis.
 
-
-## Project Objectives
+# Project Objectives
 
 - Reduce the time required to test for COVID-19.
 - Enable early diagnosis based on symptoms to accelerate patient care.
