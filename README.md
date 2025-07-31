@@ -24,7 +24,7 @@ Machine learning, already proven effective in fields like healthcare, finance, a
 - Symptom and severity-related data collected from publicly available sources such as Kaggle, IEEE Xplore, and Google Scholar.
 - Included data based on clinical symptoms, simple lab test results, and COVID-19 outcomes.
 
-### ⚙ Data Splitting
+###  Data Splitting
 - **80%** of the dataset used for training
 - **20%** used for testing
 
